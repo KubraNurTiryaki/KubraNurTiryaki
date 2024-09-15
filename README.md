@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Kübra Nur Tiryaki</h1>
 <h3 align="center">A passionate Software Engineer who is developing herself particularly in the field of Artificial Intelligence, especially in Computer Vision. Used to interested in Bank Management System, then got interested in Ethical Hacking, also created a Social Mobile Application named as "NEwent"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kubranurtiryaki&label=Profile%20views&color=0e75b6&style=flat" alt="kubranurtiryaki" /> </p>
-
 - 🔭 I’m currently working on **Deep Learning,focused on Computer Vision**
 
 - 🌱 I’m currently learning **NLP**
@@ -16,6 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kubra-nur-tiryaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kubra-nur-tiryaki" height="30" width="40" /></a>
 <a href="https://medium.com/@kubranurtiryaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kubranurtiryaki" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kubranurtiryaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@kubranurtiryaki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kubranurtiryaki&show_icons=true&locale=en" alt="kubranurtiryaki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kubranurtiryaki&" alt="kubranurtiryaki" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kubranurtiryaki&label=Profile%20views&color=0e75b6&style=flat" alt="kubranurtiryaki" /> </p>
