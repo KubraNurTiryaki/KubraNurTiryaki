@@ -1,4 +1,3 @@
-[![MasterHead]([https://www.canva.com/design/DAGQ1smjPjA/Nwn9Op0AmgA56gJ_fttctg/view?utm_content=DAGQ1smjPjA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview](https://miro.medium.com/v2/resize:fit:640/format:webp/1*XkiyKzaPbccmYC-uSY9ZLw.png))
 <h1 align="center">Hi 👋, I'm Kübra Nur Tiryaki</h1>
 <h3 align="center">A passionate Software Engineer who is developing herself particularly in the field of Artificial Intelligence, especially in Computer Vision. Used to interested in Bank Management System, then got interested in Ethical Hacking, also created a Social Mobile Application named as "NEwent"</h3>
 
@@ -24,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubranurtiryaki&show_icons=true&locale=en&layout=compact" alt="kubranurtiryaki" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kubranurtiryaki&show_icons=true&locale=en" alt="kubranurtiryaki" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kubranurtiryaki&" alt="kubranurtiryaki" /></p>
