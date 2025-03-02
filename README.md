@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQF__-hLaJR2aA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726413093463?e=1732147200&v=beta&t=70w5sP23zdtfirl7WThOIRsyx_hJAxC_X7VI4TyRVVs)
 <h1 align="center">Hi 👋, I'm Kübra Nur Tiryaki</h1>
 <h3 align="center">A passionate Software Engineer who is developing herself particularly in the field of Artificial Intelligence, especially in Computer Vision. Used to interested in Bank Management System, then got interested in Ethical Hacking, also created a Social Mobile Application named as "NEwent"</h3>
 
